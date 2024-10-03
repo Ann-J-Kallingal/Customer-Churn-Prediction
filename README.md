@@ -2,13 +2,10 @@
 
 ## Table of Contents
 - [Introduction](#introduction)
+- [Objective](#objective)
 - [Dataset](#dataset)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Modeling](#modeling)
 - [Results](#results)
-- [Conclusion](#conclusion)
-- [References](#references)
 
 ## Introduction
 Customer churn prediction is an essential task for businesses aiming to retain their customers. This project aims to build a predictive model to identify customers likely to churn using various machine learning techniques. 
